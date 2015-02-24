@@ -1,2 +1,2 @@
 # GitPublicRepo
-My public git repo
+My public git repo accessible to all
